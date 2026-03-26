@@ -6,7 +6,7 @@ draft = false
 
 # Médecins en colère : comprendre le mouvement social contre le PLFSS 2026
 
-![TOTO](IMG_9042.JPG)
+![TOTO](IMG_9042.jpg)
 
 En janvier 2026, la France a connu un mouvement social d’ampleur inédit dans le secteur médical. Pendant dix jours, du 5 au 15 janvier, une large partie des médecins libéraux a cessé son activité, dénonçant les orientations du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2026. :contentReference[oaicite:0]{index=0}
 
