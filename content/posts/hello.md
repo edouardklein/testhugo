@@ -7,3 +7,5 @@ draft = false
 # This is my first page.
 content
 ## Subtitle
+
+Ce mot est en *italique* 
